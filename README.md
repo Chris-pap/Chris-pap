@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christos Papadimitriou
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Pandas & MatplotLib
+- 🌱 I’m currently learning Pandas & MatplotLib & Plotly
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: chrispapadimitriougr@gmail.com
 
