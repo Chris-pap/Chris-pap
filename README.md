@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Christos Papadimitriou
 - 👀 I’m interested in Data Analysis / Data Science
-- 🌱 I’m currently learning Flet.dev
+- 🌱 I’m currently learning Streamlit and Folium
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: chrispapadimitriougr@gmail.com
 
