@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data Analysis / Data Science
 - 🌱 I’m currently learning Streamlit and Folium
 - 💞️ I’m looking to collaborate on Data Analysis projects
-- 📫 How to reach me: chrispapadimitriougr@gmail.com
 
 <!---
 Chris-pap/Chris-pap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
